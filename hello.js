@@ -4,7 +4,11 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+console.log(2+3);
+console.log("My first code in JavaScript");
+console.log("Cheers to many more!")
+console.log("Quoth the Raven 'Nevermore'"); 
 
 /*  
 Next, PLAY! 
